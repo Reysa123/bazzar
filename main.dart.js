@@ -41412,7 +41412,7 @@ case"Input Pengeluaran":s=this.a
 r=s.p2
 q=t.z
 p=s.c
-if(r!=="pande"){p.toString
+if(r==="pande"){p.toString
 s=A.xU(new A.ai7(s),o,q)
 A.eZ(p,!1).i0(s)}else{p.toString
 A.azb(o,new A.ai8(),p,o,!0,q)}break}},
